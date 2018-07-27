@@ -1,0 +1,25 @@
+Wordpress
+URL: spoonsbarbq.com/special-offers/wp-admin
+username: Spoonsbbq
+password: Spoonsbbq#12
+
+ipage:
+URL: ipage.com
+username: spoonsbarbqcom2
+password: Spoonsbbq#12
+
+WP Database
+Your Server Name:	spoonsbarbqcom2.ipagemysql.com
+Database Name:	spoonsbbq
+Database Username:	spoonsbbq
+Database Password:	Spoonsbbq#12
+
+FTP: 
+host: ftp.ipage.com
+username: spoonsbarbqcom2
+password: Spoonsbbq#12
+
+
+Email
+info@spoonsbarbq.com
+password: Spoonsbbq#12
